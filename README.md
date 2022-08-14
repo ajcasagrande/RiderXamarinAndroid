@@ -28,7 +28,7 @@ https://dev.azure.com/xamarin/public/_build?definitionId=48&_a=summary
 
 # 3. Android Studio
 1. Open Android Studio
-2. Click on "More actions" --> SDK Manager
+2. Click on "Tools" --> SDK Manager
 3. Under "SDK Platforms" install the desired API-levels.
 4. Under "SDK Tools" make sure that the following are installed:<br>
 4.1 Android SDK Build-Tools<br>
